@@ -70,8 +70,9 @@
         </h1>
         <div class="row">
             <div class="col-lg-3 col-md-6"><p>chicken</p><p>  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo natus, quos tempora sit iste recusandae, voluptate dolorem vero voluptatem totam voluptatum, atque hic maxime cupiditate sapiente ad inventore nulla provident.</p></div>
-            <div class="col-lg-3 col-md-6"><p>beef/p></div>
-            <div class="col-lg-3 col-md-6"><p>pork</p></div>
+            <div class="col-lg-3 col-md-6"><p>beef/p><p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo natus, quos tempora sit iste recusandae</p></div>
+            <div class="col-lg-3 col-md-6"><p>pork</p><p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo natus, quos tempora sit iste recusandae,</p></div>
         </div>
     </body>
+    </html>
        
